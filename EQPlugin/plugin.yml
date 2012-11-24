@@ -1,0 +1,3 @@
+name: EarthquakeEarlyWarning
+main: jp.sourceforge.user.yykimoto.EarthquakeEarlyWarning.EarthquakeEarlyWarning
+version: alpha
