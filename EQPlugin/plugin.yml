@@ -1,3 +1,9 @@
 name: EarthquakeEarlyWarning
 main: jp.sourceforge.user.yykimoto.EarthquakeEarlyWarning.EarthquakeEarlyWarning
 version: alpha
+commands:
+   oautheew:
+      description: EEW has coveted this.
+      usage: /<command> p or /<command> pin
+      permission: EarthquakeEarlyWarning.oautheew
+      permission-message: You don't have <permission>
